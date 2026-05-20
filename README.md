@@ -79,7 +79,3 @@ Interactive filters allow users to analyze data dynamically by:
 ---
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
-
-```markdown
-![Dashboard Preview](dashboard.png)
