@@ -75,7 +75,3 @@ Interactive filters allow users to analyze data dynamically by:
 - California records the highest sales among states.
 - Phones and Chairs are leading sub-categories by sales.
 - Sales show strong growth toward the final months of the year.
-
----
-
-## Dashboard Preview
